@@ -29,6 +29,3 @@ def modify_clipboard():
 
 if __name__ == '__main__':
     modify_clipboard()
-
-    
-print(modify_function("https://coolors.co/palette/264653-2a9d8f-e9c46a-f4a261-e76f51"))
