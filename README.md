@@ -16,5 +16,5 @@ If you want to stop the script, use `CTRL + C` in the terminal.
 ### Copying
 To copy a link to the palette on https://coolors.co/:
 1. Click on the 3 dots
-2. Click "Copy the link"
+2. Click "Copy URL"
 ![screenshot with instructions](coolorsCopy.png)
