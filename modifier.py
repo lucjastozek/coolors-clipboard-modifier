@@ -17,7 +17,7 @@ def modify_clipboard():
         original_text = pyperclip.paste()
 
         # Modify the content
-        if original_text.startswith('https://coolors.co/'):
+        if original_text.startswith('https://coolors.co/palette/'):
             modified_text = modify_function(original_text)
 
             # Set the modified text to the clipboard
